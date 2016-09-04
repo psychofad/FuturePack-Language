@@ -1,0 +1,14 @@
+[
+    "I have developed a chip which improves the decision-making ability of the computer system.",
+    "Assembly:",
+    {
+        "type": "assembly",
+        "slots": {
+            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
+            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
+            "in3": "OreDict:gemGlowtite",
+            "out": {"name":"fp:chip", "meta":"<chip.KIChip>", "size":1}
+        }
+    },
+    "The AI (Artificial Intelligence) chip, for example, the absorption laser (Entity Eater) can no longer kill targets, but leaves them greatly weakened."
+]
