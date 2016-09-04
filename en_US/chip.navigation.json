@@ -1,0 +1,19 @@
+[
+	"I designed a new chip set, with which machines can trace itself.",
+	"After I analyzed the function of the compass, I could electronically reproduce its principle in an altered form.",	
+
+	"Assembly:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":1},
+			"in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":1},
+			"in3": {"name":"compass","meta":0,"size":1},
+			"out": {"name":"fp:chip", "meta":"<chip.NavigationChip>", "size":1}
+		}
+	},	
+	
+	"A high-quality transport chipset (high chip power) provides compared to a normal no benefits!",
+	"Info: A deviating effect may be marked with the corresponding machine.",
+	"Info: For general information, see logic chipset."
+]
